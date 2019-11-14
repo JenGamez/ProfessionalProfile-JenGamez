@@ -27,4 +27,51 @@ body {
 
   #bottom-row {
     font-weight: bold;
+    padding-left: 15px;
+ 
   }
+
+  h4 {
+    margin-top: 0%;
+  }
+
+  .about-me {
+    padding-left: 10px;
+    font-weight: 900;
+  }
+
+  
+  #Shot-caller-img {
+    height: 100%;
+width: 100%;
+padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+  }
+
+  #weather-dashboard-img {
+    height: 100%;
+    width: 100%;
+    padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+  }
+
+  #coding-quiz-img {
+    height: 100%;
+    width: 100%;
+    padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+  }
+
+  body {
+    font-family: 'Assistant', sans-serif;
+  }
+
+  .projects {
+    margin-left: 10px;
+    font-weight: 900;
+
+  }
+
